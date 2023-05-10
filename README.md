@@ -29,6 +29,6 @@ I attended class, reviewed our in-class activities, read through my notes and di
         * checkpoints-Optimization1 folder
         * checkpoints-Optimization2 folder   
         * checkpoints-Optimization3 folder
-* Readme file with the Report on the Neural Network Model: [Link to Analysis](https://github.com/laurajordan845/credit-risk-classification/blob/main/analysis.md)
+* Readme file with the Report on the Neural Network Model: [Link to Analysis]([https://github.com/laurajordan845/deep-learning-challenge/blob/main/Written_Analysis.md])
 * Resources folder which houses the charity_data.csv file with the dataset (although for the model, I pulled it from it's online version)
 
